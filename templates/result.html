@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header class="topbar">
+        <div>
+            <p class="eyebrow">Prediction Output</p>
+            <h1>Retail Sales Predictor</h1>
+        </div>
+        <a class="back-link" href="{{ url_for('index') }}">Back</a>
+    </header>
+
+    <main class="result-main">
+        {% if error %}
+        <section class="result-panel">
+            <p class="error-message">{{ error }}</p>
+        </section>
+        {% else %}
+        <section class="result-panel">
+            <p class="eyebrow">{{ model_name }}</p>
+            <h2>Predicted Sales</h2>
+            <div class="prediction-value">${{ "{:,.2f}".format(prediction) }}</div>
+
+            <div class="input-summary">
+                <span>Region: <strong>{{ region }}</strong></span>
+                <span>Category: <strong>{{ category }}</strong></span>
+                <span>Quantity: <strong>{{ quantity }}</strong></span>
+                <span>Profit: <strong>${{ profit }}</strong></span>
+            </div>
+        </section>
+        {% endif %}
+    </main>
+</body>
+</html>

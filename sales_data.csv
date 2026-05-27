@@ -1,0 +1,324 @@
+Order ID,Order Date,Region,Category,Sub-Category,Product Name,Sales,Profit,Quantity
+ORD-0001,2022-05-11,South,Office Supplies,Paper,Photo Paper,12.0,2.44,1
+ORD-0002,2024-10-15,South,Office Supplies,Paper,Copy Paper,422.45,73.29,10
+ORD-0003,2025-07-21,East,Technology,Accessories,Mouse,441.34,111.98,2
+ORD-0004,2025-01-12,West,Furniture,Tables,Coffee Table,276.55,36.21,2
+ORD-0005,2022-04-22,West,Furniture,Tables,Meeting Table,925.96,126.73,7
+ORD-0006,2023-11-27,East,Technology,Accessories,Mouse,2410.72,355.36,9
+ORD-0007,2025-03-21,East,Technology,Machines,Scanner,1128.25,175.74,5
+ORD-0008,2024-10-27,West,Office Supplies,Storage,Drawer Unit,271.51,56.04,6
+ORD-0009,2024-05-30,East,Office Supplies,Appliances,Label Maker,90.44,,3
+ORD-0010,2023-08-20,West,Office Supplies,Storage,Storage Bin,324.86,69.25,8
+ORD-0011,2022-06-05,East,Technology,Copiers,Laser Copier,1814.62,362.7,8
+ORD-0012,2022-08-24,East,Office Supplies,Paper,Legal Pad,125.15,23.33,4
+ORD-0013,2023-10-31,West,Technology,Accessories,USB Hub,815.8,237.16,3
+ORD-0014,2024-11-13,Central,Office Supplies,Binders,Report Binder,222.24,49.37,6
+ORD-0015,2023-03-27,Central,Office Supplies,Binders,Premium Binder,233.53,43.51,7
+ORD-0016,2022-05-04,Central,Office Supplies,Binders,Report Binder,49.12,5.69,2
+ORD-0017,2022-08-10,South,Office Supplies,Paper,Photo Paper,71.64,0.19,1
+ORD-0018,2022-05-01,South,Office Supplies,Paper,Legal Pad,203.18,44.23,6
+ORD-0019,2023-03-18,Central,Furniture,Bookcases,Corner Bookcase,230.65,31.23,2
+ORD-0020,2023-02-15,South,Furniture,Chairs,Ergo Chair,772.71,133.39,6
+ORD-0021,2024-07-16,West,Office Supplies,Appliances,Label Maker,400.03,67.49,10
+ORD-0022,2025-09-29,East,Technology,Copiers,Compact Copier,2046.34,498.13,9
+ORD-0023,2025-07-18,East,Technology,Accessories,Keyboard,202.17,26.77,1
+ORD-0024,2025-09-30,,Technology,Copiers,Compact Copier,454.29,94.15,2
+ORD-0025,2025-09-27,East,Furniture,Tables,Meeting Table,92.7,5.08,1
+ORD-0026,2024-09-17,South,Office Supplies,Appliances,Label Maker,286.15,65.81,8
+ORD-0027,2022-07-13,West,Office Supplies,Paper,Photo Paper,222.67,32.14,6
+ORD-0028,2023-02-23,Central,Office Supplies,Binders,Basic Binder,362.78,75.32,10
+ORD-0029,2025-05-22,East,Furniture,Tables,Study Table,350.15,64.29,3
+ORD-0030,2025-03-10,West,Office Supplies,Paper,Photo Paper,194.3,22.36,5
+ORD-0031,2025-12-24,Central,Technology,Machines,Printer,2089.76,365.54,9
+ORD-0032,2022-04-08,South,Furniture,Furnishings,Desk Lamp,364.79,35.25,3
+ORD-0033,2025-04-29,East,Office Supplies,Storage,Drawer Unit,346.53,82.67,9
+ORD-0034,2023-07-30,West,Furniture,Chairs,Ergo Chair,431.52,54.57,3
+ORD-0035,2025-07-29,East,Technology,Phones,Office Phone,1102.6,322.95,5
+ORD-0036,2025-09-13,Central,Office Supplies,Appliances,Desk Fan,261.34,25.76,8
+ORD-0037,2025-02-19,West,Office Supplies,Binders,Basic Binder,12.0,8.53,1
+ORD-0038,2022-07-24,Central,Office Supplies,Paper,Copy Paper,224.28,62.68,7
+ORD-0039,2023-11-04,Central,Technology,Accessories,Mouse,693.46,165.52,3
+ORD-0040,2025-03-21,Central,Technology,Copiers,Office Copier,415.88,43.65,2
+ORD-0041,2024-11-22,East,Technology,Phones,Conference Phone,1349.6,213.77,5
+ORD-0042,2024-05-17,East,Office Supplies,Binders,Basic Binder,96.4,,2
+ORD-0043,2025-09-06,South,Office Supplies,Binders,Premium Binder,82.04,16.06,2
+ORD-0044,2025-09-22,South,Office Supplies,Appliances,Paper Shredder,146.99,19.48,4
+ORD-0045,2023-04-03,East,Furniture,Chairs,Executive Chair,775.35,120.22,6
+ORD-0046,2023-10-02,Central,Office Supplies,Paper,Legal Pad,403.64,45.9,10
+ORD-0047,2022-06-29,East,Office Supplies,Binders,Report Binder,250.37,29.78,6
+ORD-0048,2022-01-18,East,Technology,Accessories,USB Hub,1788.97,309.77,8
+ORD-0049,2022-03-05,East,Technology,Phones,Smartphone,467.28,74.89,2
+ORD-0050,2024-08-07,South,Furniture,Furnishings,Desk Lamp,1233.38,87.19,10
+ORD-0051,2025-12-02,South,Furniture,Tables,Study Table,446.79,87.82,3
+ORD-0052,2022-03-25,West,Furniture,Chairs,Ergo Chair,267.03,36.51,2
+ORD-0053,2025-04-03,Central,Furniture,Chairs,Ergo Chair,143.77,24.09,1
+ORD-0054,2024-11-03,East,Office Supplies,Appliances,Desk Fan,78.32,22.77,2
+ORD-0055,2023-01-07,Central,Office Supplies,Paper,Copy Paper,92.53,27.88,3
+ORD-0056,2025-10-14,East,Office Supplies,Binders,Report Binder,258.14,39.62,5
+ORD-0057,2024-06-17,West,Office Supplies,Paper,Legal Pad,377.0,67.3,10
+ORD-0058,2023-08-25,West,Office Supplies,Paper,Copy Paper,100.28,22.07,3
+ORD-0059,2024-06-19,West,Technology,Accessories,Mouse,470.51,119.59,2
+ORD-0060,2023-09-23,East,Office Supplies,Appliances,Paper Shredder,212.77,52.9,6
+ORD-0061,2022-03-23,East,Technology,Machines,Printer,234.97,56.92,1
+ORD-0062,2023-02-14,West,Technology,Machines,Scanner,956.91,173.34,4
+ORD-0063,2022-04-22,South,Technology,Accessories,Keyboard,1685.5,211.84,8
+ORD-0064,2024-10-01,South,Furniture,Bookcases,Corner Bookcase,305.02,65.26,2
+ORD-0065,2024-08-09,East,Office Supplies,Appliances,Desk Fan,153.57,18.64,4
+ORD-0066,2022-04-27,East,,Furnishings,Wall Clock,400.27,45.35,3
+ORD-0067,2023-01-28,East,Technology,Machines,Scanner,1356.24,257.9,6
+ORD-0068,2024-08-06,South,Technology,Accessories,Keyboard,1076.34,299.35,5
+ORD-0069,2022-06-25,South,Office Supplies,Storage,Storage Bin,305.3,66.42,9
+ORD-0070,2024-02-16,East,Furniture,Tables,Meeting Table,117.85,14.17,1
+ORD-0071,2023-08-31,West,Office Supplies,Storage,Storage Bin,337.65,53.05,8
+ORD-0072,2025-12-05,West,Technology,Machines,Scanner,2510.68,553.13,9
+ORD-0073,2023-09-02,South,Technology,Phones,Office Phone,1898.07,401.58,9
+ORD-0074,2024-12-08,South,Technology,Accessories,Keyboard,1253.38,335.69,5
+ORD-0075,2023-10-12,South,Furniture,Chairs,Task Chair,1425.7,203.88,10
+ORD-0076,2022-03-13,Central,Technology,Copiers,Laser Copier,186.35,24.66,1
+ORD-0077,2023-01-20,Central,Furniture,Furnishings,Wall Clock,814.13,104.87,7
+ORD-0078,2025-08-01,South,Office Supplies,Paper,Legal Pad,137.65,21.83,4
+ORD-0079,2023-10-20,Central,Technology,Copiers,Office Copier,1624.45,476.46,7
+ORD-0080,2023-03-09,Central,Office Supplies,Storage,Storage Bin,362.26,60.78,10
+ORD-0081,2024-03-21,East,Office Supplies,Appliances,Desk Fan,334.37,68.41,9
+ORD-0082,2023-05-17,West,Furniture,Furnishings,Wall Clock,546.28,74.81,4
+ORD-0083,2022-02-06,West,Furniture,Tables,Meeting Table,311.69,48.97,2
+ORD-0084,2022-08-16,South,Technology,Accessories,Mouse,1491.56,202.67,7
+ORD-0085,2023-04-11,South,Office Supplies,Appliances,Desk Fan,30.87,-4.43,2
+ORD-0086,2022-02-22,South,Office Supplies,Paper,Photo Paper,138.39,14.01,4
+ORD-0087,2023-10-19,East,Office Supplies,Paper,Legal Pad,133.57,28.96,3
+ORD-0088,2023-09-01,West,Office Supplies,Paper,Legal Pad,189.68,8.13,5
+ORD-0089,2025-08-28,West,Office Supplies,Paper,Copy Paper,327.41,55.84,8
+ORD-0090,2023-04-29,Central,Furniture,Chairs,Ergo Chair,1130.85,93.79,10
+ORD-0091,2023-11-26,East,Office Supplies,Binders,Premium Binder,314.01,57.59,7
+ORD-0092,2025-05-26,South,Furniture,Furnishings,Desk Lamp,1205.73,161.85,10
+ORD-0093,2022-08-05,West,Technology,Phones,Smartphone,717.04,75.63,3
+ORD-0094,2022-11-13,West,Furniture,Chairs,Task Chair,1299.01,210.67,8
+ORD-0095,2022-12-12,East,Furniture,Bookcases,Corner Bookcase,154.01,41.98,1
+ORD-0096,2022-09-10,Central,Furniture,Bookcases,Metal Bookcase,1016.0,129.79,9
+ORD-0097,2023-10-16,Central,Furniture,Tables,Coffee Table,1328.83,185.78,10
+ORD-0098,2025-05-06,Central,Office Supplies,Storage,Storage Bin,138.43,,4
+ORD-0099,2022-08-07,West,Office Supplies,Appliances,Label Maker,43.75,1.78,1
+ORD-0100,2025-03-08,East,Furniture,Bookcases,Metal Bookcase,1287.34,119.38,10
+ORD-0101,2023-05-16,West,Technology,Copiers,Office Copier,1644.28,441.54,7
+ORD-0102,2023-07-08,West,Technology,Phones,Conference Phone,2100.7,530.57,9
+ORD-0103,2022-11-04,South,Office Supplies,Appliances,Paper Shredder,423.62,75.39,10
+ORD-0104,2025-07-20,East,Technology,Copiers,Laser Copier,1150.35,167.88,5
+ORD-0105,2023-03-26,Central,Office Supplies,Binders,Report Binder,237.24,61.72,8
+ORD-0106,2022-12-22,South,Office Supplies,Binders,Basic Binder,209.79,36.63,5
+ORD-0107,2024-09-10,West,Furniture,Chairs,Ergo Chair,266.94,35.87,2
+ORD-0108,2023-03-07,West,Furniture,Furnishings,Wall Clock,291.21,32.73,2
+ORD-0109,2023-08-12,Central,Furniture,Chairs,Ergo Chair,582.89,68.4,5
+ORD-0110,2022-08-23,South,Technology,Accessories,Keyboard,1742.19,479.87,8
+ORD-0111,2023-07-17,West,Technology,Copiers,Compact Copier,1656.4,464.09,7
+ORD-0112,2023-08-28,Central,Furniture,Bookcases,Wood Bookcase,332.68,56.56,3
+ORD-0113,2023-02-17,West,Office Supplies,Paper,Legal Pad,354.16,99.18,9
+ORD-0114,2023-09-27,East,Office Supplies,Binders,Report Binder,111.82,20.27,3
+ORD-0115,2025-08-30,Central,Office Supplies,Appliances,Desk Fan,203.45,31.53,6
+ORD-0116,2024-02-17,South,Technology,Phones,Conference Phone,843.98,195.86,4
+ORD-0117,2024-07-20,South,Furniture,Chairs,Executive Chair,732.42,52.83,6
+ORD-0118,2023-10-02,West,Furniture,Tables,Coffee Table,315.27,29.28,2
+ORD-0119,2024-11-17,West,Office Supplies,Storage,Storage Bin,54.6,9.91,1
+ORD-0120,2023-11-22,Central,Office Supplies,Binders,Basic Binder,343.95,64.36,9
+ORD-0121,2024-12-09,Central,Office Supplies,Appliances,Desk Fan,79.83,7.17,2
+ORD-0122,2024-11-17,Central,Office Supplies,Paper,Copy Paper,83.77,19.64,2
+ORD-0123,2025-07-20,West,Furniture,Chairs,Executive Chair,1325.19,191.82,10
+ORD-0124,2025-06-11,West,Office Supplies,Paper,Photo Paper,399.38,64.51,10
+ORD-0125,2024-12-25,West,Office Supplies,Binders,Basic Binder,373.7,38.66,8
+ORD-0126,2025-11-27,South,Office Supplies,Storage,File Box,433.45,79.57,10
+ORD-0127,2025-04-02,West,Furniture,Tables,Study Table,1326.8,236.81,10
+ORD-0128,2025-09-11,East,Office Supplies,Paper,Photo Paper,116.1,14.87,3
+ORD-0129,2023-02-23,East,Technology,Accessories,USB Hub,1359.72,367.94,6
+ORD-0130,2022-09-03,Central,Furniture,Furnishings,Desk Lamp,422.53,64.41,4
+ORD-0131,2025-07-06,South,Technology,Copiers,Compact Copier,2149.79,503.52,10
+ORD-0132,2022-07-21,Central,Furniture,Furnishings,Desk Lamp,553.27,66.72,5
+ORD-0133,2022-02-04,South,Office Supplies,Binders,Basic Binder,267.43,50.03,7
+ORD-0134,2024-11-29,West,Office Supplies,Storage,File Box,345.64,68.07,8
+ORD-0135,2024-11-09,South,Office Supplies,Binders,Report Binder,127.8,7.81,3
+ORD-0136,2022-07-30,Central,Furniture,Chairs,Ergo Chair,559.76,45.94,5
+ORD-0137,2022-02-08,East,Technology,Accessories,USB Hub,1348.45,341.39,6
+ORD-0138,2024-02-27,West,Office Supplies,Appliances,Desk Fan,344.54,45.9,8
+ORD-0139,2025-11-06,East,Furniture,Tables,Meeting Table,324.4,34.39,2
+ORD-0140,2022-09-14,East,Office Supplies,Paper,Copy Paper,366.71,44.34,9
+ORD-0141,2025-10-14,West,Technology,Phones,Smartphone,2264.52,282.71,8
+ORD-0142,2024-03-15,West,Furniture,Tables,Meeting Table,670.47,111.99,5
+ORD-0143,2022-07-13,Central,Office Supplies,Paper,Legal Pad,241.69,34.79,7
+ORD-0144,2024-09-15,South,Technology,Phones,Office Phone,1089.14,188.57,5
+ORD-0145,2023-11-09,,Office Supplies,Binders,Basic Binder,377.63,42.54,9
+ORD-0146,2022-05-25,East,Office Supplies,Paper,Copy Paper,78.87,13.62,1
+ORD-0147,2022-02-17,South,Furniture,Furnishings,Desk Lamp,81.9,17.88,1
+ORD-0148,2022-06-18,Central,Technology,Copiers,Laser Copier,206.83,50.83,1
+ORD-0149,2025-09-13,East,Technology,Accessories,Mouse,1319.67,297.48,6
+ORD-0150,2023-12-23,Central,Furniture,Tables,Study Table,289.19,48.54,2
+ORD-0151,2025-03-15,Central,Technology,Machines,Fax Machine,1551.13,317.49,8
+ORD-0152,2023-07-26,West,Office Supplies,Storage,Drawer Unit,156.11,20.28,4
+ORD-0153,2025-06-15,East,Office Supplies,Appliances,Paper Shredder,211.75,52.45,6
+ORD-0154,2023-01-12,Central,Office Supplies,Appliances,Label Maker,317.78,36.52,10
+ORD-0155,2022-05-02,East,Technology,Phones,Conference Phone,694.73,124.54,3
+ORD-0156,2023-12-27,South,Office Supplies,Paper,Copy Paper,118.48,27.44,3
+ORD-0157,2022-04-23,South,Technology,Machines,Printer,2142.96,576.0,10
+ORD-0158,2024-05-18,East,Technology,Copiers,Office Copier,1609.79,233.92,7
+ORD-0159,2022-11-20,South,Furniture,Bookcases,Wood Bookcase,1151.8,146.01,8
+ORD-0160,2025-07-01,Central,Office Supplies,Storage,Drawer Unit,234.42,40.82,7
+ORD-0161,2024-04-18,East,Office Supplies,Binders,Basic Binder,231.66,62.29,6
+ORD-0162,2025-10-16,South,Office Supplies,Appliances,Desk Fan,218.33,57.82,5
+ORD-0163,2024-08-23,East,Office Supplies,Storage,File Box,222.25,55.92,6
+ORD-0164,2025-08-12,East,Furniture,Furnishings,Floor Mat,768.47,112.41,6
+ORD-0165,2022-09-09,South,Office Supplies,Appliances,Label Maker,193.91,32.5,6
+ORD-0166,2023-02-22,East,Technology,Machines,Scanner,2267.56,496.27,10
+ORD-0167,2022-11-11,South,Office Supplies,Appliances,Desk Fan,207.67,24.27,5
+ORD-0168,2023-10-29,Central,Office Supplies,Appliances,Label Maker,414.81,66.18,10
+ORD-0169,2025-04-10,East,Office Supplies,Storage,Drawer Unit,361.49,39.83,9
+ORD-0170,2025-11-28,East,Technology,Copiers,Compact Copier,1605.59,358.67,6
+ORD-0171,2024-07-01,South,Office Supplies,Binders,Basic Binder,196.42,29.11,5
+ORD-0172,2022-11-27,West,Office Supplies,Binders,Basic Binder,307.39,47.25,7
+ORD-0173,2024-11-10,South,Furniture,Furnishings,Desk Lamp,870.86,103.95,6
+ORD-0174,2023-12-29,Central,Office Supplies,Paper,Photo Paper,13.79,21.3,1
+ORD-0175,2022-01-26,West,Technology,Accessories,Mouse,1890.78,371.7,8
+ORD-0176,2022-03-30,East,Office Supplies,Appliances,Label Maker,157.63,42.15,4
+ORD-0177,2024-07-08,South,Office Supplies,Binders,Report Binder,152.81,18.18,5
+ORD-0178,2023-11-03,East,Technology,Copiers,Office Copier,840.6,134.38,3
+ORD-0179,2023-04-25,Central,Technology,Copiers,Office Copier,380.23,57.15,2
+ORD-0180,2024-10-31,East,Furniture,Tables,Study Table,898.28,68.94,6
+ORD-0181,2022-06-09,South,Office Supplies,Paper,Photo Paper,130.95,5.42,3
+ORD-0182,2022-12-18,South,Office Supplies,Appliances,Label Maker,127.6,5.1,3
+ORD-0183,2024-02-27,South,Technology,Accessories,Mouse,1464.58,408.81,7
+ORD-0184,2024-07-28,Central,Office Supplies,Appliances,Paper Shredder,29.83,7.67,1
+ORD-0185,2025-01-20,Central,Technology,Machines,Printer,1592.69,439.29,8
+ORD-0186,2022-11-25,East,Office Supplies,Paper,Photo Paper,158.36,28.43,3
+ORD-0187,2022-11-11,East,Furniture,Bookcases,Wood Bookcase,1063.92,180.03,7
+ORD-0188,2025-10-18,East,Furniture,Furnishings,Floor Mat,1531.8,221.28,10
+ORD-0189,2023-05-15,South,Furniture,Chairs,Task Chair,1224.45,181.32,10
+ORD-0190,2023-09-24,South,Furniture,Chairs,Task Chair,694.54,62.65,6
+ORD-0191,2025-01-26,East,Office Supplies,Paper,Photo Paper,92.57,3.67,2
+ORD-0192,2023-06-27,Central,Office Supplies,Storage,File Box,337.15,71.87,10
+ORD-0193,2022-05-08,South,Furniture,Tables,Coffee Table,239.18,28.49,2
+ORD-0194,2022-10-21,Central,Furniture,Furnishings,Wall Clock,398.55,60.58,3
+ORD-0195,2023-08-12,South,Office Supplies,Paper,Copy Paper,36.54,13.87,1
+ORD-0196,2022-08-25,East,Furniture,Furnishings,Wall Clock,149.0,16.34,1
+ORD-0197,2022-06-27,South,Technology,Phones,Conference Phone,2142.15,554.12,10
+ORD-0198,2023-10-07,West,Furniture,Chairs,Ergo Chair,949.41,127.22,6
+ORD-0199,2025-03-12,East,Technology,Accessories,USB Hub,652.19,164.03,3
+ORD-0200,2024-02-04,East,Office Supplies,Appliances,Desk Fan,296.97,33.89,7
+ORD-0201,2022-05-23,West,Technology,Copiers,Laser Copier,1648.83,305.74,7
+ORD-0202,2025-12-02,West,Technology,Copiers,Office Copier,250.52,47.29,1
+ORD-0203,2023-10-24,West,Technology,Machines,Printer,2513.54,407.12,9
+ORD-0204,2023-08-03,East,Technology,Copiers,Compact Copier,687.78,112.73,3
+ORD-0205,2023-05-13,South,Office Supplies,Binders,Premium Binder,147.06,32.82,4
+ORD-0206,2024-12-22,East,Technology,Machines,Printer,1082.03,301.03,4
+ORD-0207,2025-04-21,West,Furniture,Tables,Meeting Table,243.64,22.01,2
+ORD-0208,2022-05-12,Central,Office Supplies,Appliances,Label Maker,263.88,40.12,8
+ORD-0209,2023-08-29,West,Office Supplies,Binders,Premium Binder,24.44,7.06,1
+ORD-0210,2022-09-05,Central,Office Supplies,Paper,Legal Pad,285.71,35.56,9
+ORD-0211,2024-08-08,South,Furniture,Furnishings,Wall Clock,378.52,54.38,3
+ORD-0212,2023-02-28,West,Office Supplies,Storage,Storage Bin,255.37,47.94,7
+ORD-0213,2023-04-29,West,Technology,Machines,Printer,2108.68,451.47,9
+ORD-0214,2025-04-27,Central,Office Supplies,Appliances,Paper Shredder,177.21,0.14,6
+ORD-0215,2024-01-22,South,Office Supplies,Storage,Storage Bin,328.34,43.45,10
+ORD-0216,2025-11-06,Central,Technology,Accessories,Mouse,1857.59,534.03,8
+ORD-0217,2023-08-10,Central,Office Supplies,Paper,Legal Pad,133.26,31.75,4
+ORD-0218,2023-08-26,West,Technology,Machines,Fax Machine,710.53,165.07,3
+ORD-0219,2022-01-13,South,Office Supplies,Paper,Legal Pad,299.45,59.08,8
+ORD-0220,2025-06-10,South,Technology,Accessories,Mouse,2137.92,383.34,10
+ORD-0221,2022-04-28,Central,Office Supplies,Storage,Storage Bin,191.11,35.62,5
+ORD-0222,2023-08-20,Central,Office Supplies,Appliances,Label Maker,99.29,5.11,3
+ORD-0223,2023-01-08,Central,Furniture,Bookcases,Wood Bookcase,100.35,-2.93,1
+ORD-0224,2022-03-22,East,Office Supplies,Paper,Legal Pad,56.23,11.14,1
+ORD-0225,2023-05-08,Central,Furniture,Furnishings,Desk Lamp,1004.11,146.36,9
+ORD-0226,2024-08-22,South,Office Supplies,Paper,Photo Paper,120.15,8.77,3
+ORD-0227,2024-03-05,Central,Office Supplies,Storage,Drawer Unit,207.17,18.23,6
+ORD-0228,2025-03-30,East,Furniture,Chairs,Task Chair,656.15,72.65,5
+ORD-0229,2024-06-08,South,Furniture,Tables,Study Table,734.98,108.64,6
+ORD-0230,2025-10-22,East,Furniture,Bookcases,Wood Bookcase,1397.78,195.21,9
+ORD-0231,2024-08-26,Central,Furniture,Bookcases,Corner Bookcase,245.92,24.07,2
+ORD-0232,2025-05-25,East,Furniture,Tables,Coffee Table,381.54,79.32,3
+ORD-0233,2024-08-17,West,Technology,Machines,Printer,1388.26,410.27,6
+ORD-0234,2024-06-22,West,Office Supplies,Binders,Report Binder,141.12,15.86,4
+ORD-0235,2022-02-07,South,Office Supplies,Paper,Photo Paper,14.05,-3.47,1
+ORD-0236,2023-10-15,West,Furniture,Chairs,Ergo Chair,1118.88,127.95,7
+ORD-0237,2024-03-02,Central,Furniture,Tables,Meeting Table,765.47,123.7,7
+ORD-0238,2024-06-16,West,Office Supplies,Paper,Photo Paper,353.36,68.38,9
+ORD-0239,2025-01-10,West,Office Supplies,Storage,File Box,49.02,12.46,1
+ORD-0240,2025-02-17,South,Office Supplies,Appliances,Label Maker,396.85,68.19,10
+ORD-0241,2025-03-05,West,Technology,Phones,Office Phone,256.6,81.24,1
+ORD-0242,2023-10-24,East,Furniture,Chairs,Executive Chair,1532.15,203.61,10
+ORD-0243,2024-12-03,Central,Technology,Machines,Printer,2072.39,569.45,9
+ORD-0244,2024-01-08,West,Technology,Copiers,Compact Copier,482.27,71.55,2
+ORD-0245,2023-11-07,East,Office Supplies,Paper,Copy Paper,279.5,39.55,6
+ORD-0246,2023-06-03,East,Furniture,Bookcases,Wood Bookcase,1275.79,129.9,10
+ORD-0247,2024-09-18,Central,Furniture,Tables,Study Table,1095.42,179.23,10
+ORD-0248,2025-09-30,Central,Office Supplies,Binders,Report Binder,194.29,18.27,6
+ORD-0249,2023-01-14,East,Furniture,Furnishings,Desk Lamp,519.42,34.33,4
+ORD-0250,2023-02-05,West,Furniture,Tables,Coffee Table,113.63,16.93,1
+ORD-0251,2025-03-13,Central,Office Supplies,Binders,Report Binder,44.23,13.58,1
+ORD-0252,2025-01-22,South,Technology,Accessories,Mouse,241.98,63.8,1
+ORD-0253,2024-09-04,South,Technology,Machines,Scanner,1270.83,169.5,6
+ORD-0254,2025-06-05,West,Office Supplies,Paper,Photo Paper,197.13,50.58,5
+ORD-0255,2024-12-17,Central,Office Supplies,Paper,Copy Paper,158.77,37.9,4
+ORD-0256,2024-01-05,South,Technology,Accessories,Keyboard,1719.43,376.04,8
+ORD-0257,2022-11-28,South,Office Supplies,Paper,Copy Paper,132.92,20.13,2
+ORD-0258,2025-09-20,East,Furniture,Furnishings,Wall Clock,776.46,115.38,6
+ORD-0259,2023-01-14,East,Office Supplies,Binders,Premium Binder,137.81,20.57,4
+ORD-0260,2024-11-15,West,Office Supplies,Appliances,Paper Shredder,485.01,111.2,10
+ORD-0261,2023-04-22,West,Office Supplies,Storage,Storage Bin,162.83,38.33,4
+ORD-0262,2022-10-05,East,Office Supplies,Storage,Storage Bin,278.7,58.19,7
+ORD-0263,2025-05-27,West,Office Supplies,Appliances,Desk Fan,179.24,9.92,5
+ORD-0264,2023-03-10,Central,Office Supplies,Paper,Copy Paper,116.96,30.08,4
+ORD-0265,2023-01-24,South,Office Supplies,Binders,Report Binder,368.0,85.68,10
+ORD-0266,2025-03-05,East,Office Supplies,Binders,Basic Binder,75.8,16.55,2
+ORD-0267,2025-09-15,Central,Technology,Copiers,Office Copier,1188.62,328.93,6
+ORD-0268,2025-06-23,West,Furniture,Tables,Study Table,566.09,56.13,4
+ORD-0269,2022-05-02,East,Furniture,Chairs,Executive Chair,234.11,13.27,2
+ORD-0270,2024-10-31,Central,Furniture,Chairs,Executive Chair,1046.17,171.11,8
+ORD-0271,2022-05-15,West,Office Supplies,Storage,Storage Bin,127.52,12.7,3
+ORD-0272,2024-05-23,South,Furniture,Tables,Meeting Table,240.94,22.51,2
+ORD-0273,2022-02-08,West,Furniture,Tables,Meeting Table,514.59,61.24,4
+ORD-0274,2025-12-11,East,Technology,Accessories,Keyboard,543.5,109.14,2
+ORD-0275,2024-08-12,East,Furniture,Bookcases,Wood Bookcase,769.92,111.32,6
+ORD-0276,2024-11-29,East,Furniture,Chairs,Executive Chair,136.91,10.22,1
+ORD-0277,2025-07-19,West,Office Supplies,Appliances,Paper Shredder,210.88,40.17,5
+ORD-0278,2022-08-08,South,Furniture,Bookcases,Corner Bookcase,652.22,95.31,5
+ORD-0279,2025-01-23,West,Office Supplies,Binders,Basic Binder,379.26,64.98,9
+ORD-0280,2025-06-28,West,Furniture,Chairs,Ergo Chair,135.92,31.04,1
+ORD-0281,2025-05-25,Central,Technology,Machines,Scanner,1199.01,196.79,6
+ORD-0282,2022-01-16,West,Office Supplies,Storage,File Box,312.93,70.32,8
+ORD-0283,2024-12-26,West,Office Supplies,Storage,Drawer Unit,259.57,58.72,6
+ORD-0284,2024-09-23,West,Office Supplies,Binders,Basic Binder,53.4,19.67,1
+ORD-0285,2022-08-12,South,Technology,Phones,Office Phone,214.97,41.33,1
+ORD-0286,2024-10-07,West,Office Supplies,Paper,Copy Paper,433.6,56.1,10
+ORD-0287,2023-12-30,East,Furniture,Bookcases,Metal Bookcase,590.83,54.88,4
+ORD-0288,2023-12-05,West,Technology,Copiers,Compact Copier,1930.2,429.06,7
+ORD-0289,2022-06-02,West,Office Supplies,Appliances,Paper Shredder,218.98,38.06,6
+ORD-0290,2024-09-19,West,Office Supplies,Storage,File Box,167.89,47.4,4
+ORD-0291,2023-04-28,East,Furniture,Tables,Meeting Table,248.82,40.7,2
+ORD-0292,2023-06-30,East,Office Supplies,Appliances,Paper Shredder,285.16,56.76,8
+ORD-0293,2022-10-09,East,Technology,Machines,Fax Machine,1855.88,386.26,7
+ORD-0294,2024-02-02,Central,Technology,Copiers,Laser Copier,1766.97,506.79,9
+ORD-0295,2025-02-14,Central,Office Supplies,Storage,Storage Bin,261.6,49.48,9
+ORD-0296,2022-06-24,South,Furniture,Bookcases,Metal Bookcase,268.61,27.91,2
+ORD-0297,2025-11-07,South,Technology,Machines,Fax Machine,721.7,103.28,3
+ORD-0298,2024-07-11,South,Technology,Copiers,Compact Copier,854.99,180.87,4
+ORD-0299,2025-04-28,East,Office Supplies,Appliances,Desk Fan,25.17,21.31,1
+ORD-0300,2025-11-18,East,Technology,Copiers,Compact Copier,825.05,171.75,3
+ORD-0301,2025-04-06,Central,Office Supplies,Binders,Report Binder,114.99,13.94,3
+ORD-0302,2024-01-25,East,Furniture,Furnishings,Wall Clock,777.8,124.81,6
+ORD-0303,2025-03-16,South,Furniture,Chairs,Executive Chair,457.19,37.11,4
+ORD-0304,2022-02-08,South,Furniture,Tables,Meeting Table,621.76,105.84,5
+ORD-0305,2024-12-07,South,Furniture,Tables,Coffee Table,1452.96,175.62,10
+ORD-0306,2025-10-08,West,Furniture,Chairs,Task Chair,1078.91,154.7,7
+ORD-0307,2024-02-11,West,Technology,Phones,Office Phone,485.51,137.47,2
+ORD-0308,2023-12-24,South,Furniture,Furnishings,Wall Clock,1427.37,178.25,10
+ORD-0309,2024-09-04,East,Furniture,Bookcases,Metal Bookcase,1165.08,164.03,9
+ORD-0310,2025-07-21,East,Furniture,Furnishings,Floor Mat,1035.23,142.99,8
+ORD-0311,2023-05-11,Central,Technology,Phones,Smartphone,433.66,103.58,2
+ORD-0312,2025-05-21,South,Office Supplies,Appliances,Desk Fan,232.89,54.3,6
+ORD-0313,2024-04-06,East,Office Supplies,Storage,Drawer Unit,166.09,23.43,4
+ORD-0314,2025-07-31,West,Office Supplies,Paper,Copy Paper,235.06,46.87,6
+ORD-0315,2024-08-13,South,Technology,Accessories,Keyboard,211.41,50.58,1
+ORD-0316,2024-05-01,West,Technology,Copiers,Laser Copier,940.9,150.66,4
+ORD-0317,2024-03-04,East,Office Supplies,Appliances,Paper Shredder,350.8,89.4,9
+ORD-0318,2024-10-03,Central,Furniture,Furnishings,Wall Clock,271.45,49.4,2
+ORD-0319,2022-02-13,South,Furniture,Tables,Coffee Table,739.23,92.21,6
+ORD-0320,2025-12-18,Central,Furniture,Tables,Meeting Table,1057.23,98.87,8
+ORD-0006,2023-11-27,East,Technology,Accessories,Mouse,2410.72,355.36,9
+ORD-0021,2024-07-16,West,Office Supplies,Appliances,Label Maker,400.03,67.49,10
+ORD-0056,2025-10-14,East,Office Supplies,Binders,Report Binder,258.14,39.62,5
