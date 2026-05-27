@@ -146,12 +146,30 @@ The training script saves charts inside `static/graphs/`:
 
 ## Screenshots
 
-Add screenshots after running the app:
+## Home Page Dashboard
 
-- Home page dashboard: `screenshots/home.png`
-- Prediction form: `screenshots/form.png`
-- Prediction result: `screenshots/result.png`
-- EDA charts: `screenshots/charts.png`
+![Home Page](screenshots/home.png)
+
+---
+
+## Prediction Form
+
+![Prediction Form](screenshots/form.png)
+
+---
+
+## Prediction Result
+
+![Prediction Result](screenshots/result.png)
+
+---
+
+## EDA Charts
+
+![EDA Charts](screenshots/charts.png)
+
+![EDA Charts](screenshots/chart2.png)
+
 
 ## Machine Learning Models
 
